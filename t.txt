@@ -1,0 +1,150 @@
+ <section id="banner" class="section-m1">
+        <h4>Repair Services </h4>
+        <h2>Up to <span>70% off </span> - All t0shirts & Accessories</h2>
+        <button class="normal">Explore More</button>
+    </section>
+
+
+
+ <section id="product1" class="section-p1">
+        <h2>New Arrivals</h2>
+        <p>Summer Collection New Modern Design</p>
+        <div class="pro-container">
+            <!-- Product-1 -->
+            <div class="pro">
+                <img src="product/n1.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-2 -->
+            <div class="pro">
+                <img src="product/n2.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-3 -->
+            <div class="pro">
+                <img src="product/n3.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-4 -->
+            <div class="pro">
+                <img src="product/n4.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-5 -->
+            <div class="pro">
+                <img src="product/n5.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-6 -->
+            <div class="pro">
+                <img src="product/n6.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-7 -->
+            <div class="pro">
+                <img src="product/n7.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+            <!-- Product-8 -->
+            <div class="pro">
+                <img src="product/n8.jpg" alt="">
+                <div class="des">
+                    <span>addidas</span>
+                    <h5>Cartoon Astronaut T-shirt</h5>
+                    <div class="star">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <h4>$40</h4>
+                </div>
+                <a href="#"><i class="ri-shopping-cart-fill cart"></i></a>
+            </div>
+        </div>
+    </section>
